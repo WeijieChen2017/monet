@@ -19,11 +19,11 @@
      <x>20</x>
      <y>10</y>
      <width>1161</width>
-     <height>801</height>
+     <height>701</height>
     </rect>
    </property>
    <property name="currentIndex">
-    <number>3</number>
+    <number>1</number>
    </property>
    <widget class="QWidget" name="Data">
     <attribute name="title">
@@ -47,7 +47,7 @@
       <rect>
        <x>30</x>
        <y>20</y>
-       <width>911</width>
+       <width>401</width>
        <height>101</height>
       </rect>
      </property>
@@ -106,7 +106,7 @@ p, li { white-space: pre-wrap; }
       <rect>
        <x>30</x>
        <y>140</y>
-       <width>911</width>
+       <width>401</width>
        <height>201</height>
       </rect>
      </property>
@@ -228,7 +228,7 @@ p, li { white-space: pre-wrap; }
       <rect>
        <x>30</x>
        <y>360</y>
-       <width>911</width>
+       <width>401</width>
        <height>121</height>
       </rect>
      </property>
@@ -304,7 +304,7 @@ p, li { white-space: pre-wrap; }
       <rect>
        <x>30</x>
        <y>20</y>
-       <width>921</width>
+       <width>441</width>
        <height>211</height>
       </rect>
      </property>
@@ -1246,14 +1246,6 @@ p, li { white-space: pre-wrap; }
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Sans Serif'; font-size:9pt;&quot;&gt;0.25&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
         </property>
        </widget>
-       <zorder>label_14</zorder>
-       <zorder>label_4</zorder>
-       <zorder>data_x_17</zorder>
-       <zorder>label_5</zorder>
-       <zorder>data_x_18</zorder>
-       <zorder>checkBox_27</zorder>
-       <zorder>label_9</zorder>
-       <zorder>data_x_19</zorder>
       </widget>
       <widget class="QFrame" name="frame_21">
        <property name="geometry">
@@ -1319,9 +1311,9 @@ p, li { white-space: pre-wrap; }
      <property name="geometry">
       <rect>
        <x>30</x>
-       <y>280</y>
+       <y>270</y>
        <width>661</width>
-       <height>241</height>
+       <height>181</height>
       </rect>
      </property>
      <property name="frameShape">
@@ -1336,7 +1328,7 @@ p, li { white-space: pre-wrap; }
         <x>20</x>
         <y>10</y>
         <width>621</width>
-        <height>211</height>
+        <height>171</height>
        </rect>
       </property>
       <property name="title">
@@ -1347,8 +1339,8 @@ p, li { white-space: pre-wrap; }
         <rect>
          <x>10</x>
          <y>60</y>
-         <width>241</width>
-         <height>151</height>
+         <width>431</width>
+         <height>101</height>
         </rect>
        </property>
        <property name="frameShape">
@@ -1412,8 +1404,8 @@ p, li { white-space: pre-wrap; }
        <widget class="QLabel" name="label_23">
         <property name="geometry">
          <rect>
-          <x>30</x>
-          <y>90</y>
+          <x>230</x>
+          <y>30</y>
           <width>91</width>
           <height>22</height>
          </rect>
@@ -1425,8 +1417,8 @@ p, li { white-space: pre-wrap; }
        <widget class="QLabel" name="label_24">
         <property name="geometry">
          <rect>
-          <x>30</x>
-          <y>110</y>
+          <x>230</x>
+          <y>50</y>
           <width>91</width>
           <height>22</height>
          </rect>
@@ -1489,8 +1481,8 @@ p, li { white-space: pre-wrap; }
        <widget class="QTextEdit" name="data_x_36">
         <property name="geometry">
          <rect>
-          <x>130</x>
-          <y>90</y>
+          <x>290</x>
+          <y>30</y>
           <width>91</width>
           <height>22</height>
          </rect>
@@ -1506,8 +1498,8 @@ p, li { white-space: pre-wrap; }
        <widget class="QTextEdit" name="data_x_37">
         <property name="geometry">
          <rect>
-          <x>130</x>
-          <y>110</y>
+          <x>290</x>
+          <y>50</y>
           <width>91</width>
           <height>22</height>
          </rect>
@@ -1537,16 +1529,13 @@ p, li { white-space: pre-wrap; }
         <bool>false</bool>
        </property>
       </widget>
-      <zorder>label_21</zorder>
-      <zorder>frame_20</zorder>
-      <zorder>radioButton_15</zorder>
      </widget>
     </widget>
     <widget class="QFrame" name="frame_10">
      <property name="geometry">
       <rect>
        <x>30</x>
-       <y>540</y>
+       <y>460</y>
        <width>661</width>
        <height>171</height>
       </rect>
@@ -1823,7 +1812,7 @@ p, li { white-space: pre-wrap; }
      <property name="geometry">
       <rect>
        <x>30</x>
-       <y>730</y>
+       <y>640</y>
        <width>80</width>
        <height>23</height>
       </rect>
@@ -1838,7 +1827,7 @@ p, li { white-space: pre-wrap; }
        <x>710</x>
        <y>50</y>
        <width>431</width>
-       <height>661</height>
+       <height>581</height>
       </rect>
      </property>
     </widget>
@@ -1865,7 +1854,7 @@ p, li { white-space: pre-wrap; }
       <rect>
        <x>30</x>
        <y>20</y>
-       <width>911</width>
+       <width>451</width>
        <height>91</height>
       </rect>
      </property>
@@ -1924,7 +1913,7 @@ p, li { white-space: pre-wrap; }
       <rect>
        <x>30</x>
        <y>120</y>
-       <width>911</width>
+       <width>451</width>
        <height>111</height>
       </rect>
      </property>
